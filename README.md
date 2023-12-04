@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning from scratch!
 - 💞️ I’m looking to collaborate on DAO's
-- 📫 How to reach me alex@foxknight.io
+- 📫 How to reach me admin@sportbetdao.com
 
 <!---
 SportBetDAO/SportBetDAO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
